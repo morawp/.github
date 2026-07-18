@@ -1,17 +1,16 @@
 # MoraWP
 
-**Controlled WordPress access for AI agents.**
+## Your AI agent. Your WordPress. Your rules.
 
-MoraWP connects AI agents to one or many WordPress sites without giving them unchecked access. You choose what each agent can access; MoraWP scopes permissions, executes approved actions, and records every change.
+**AI asks. MoraWP checks. WordPress changes.**
 
-## What MoraWP does
+Connect the AI agents you use to the WordPress sites you manage. MoraWP sets the access boundary before a request reaches WordPress: what the agent can see, what it can do, and what needs your approval. Every approved action is recorded.
 
-- Connect your preferred AI agent to WordPress.
-- Scope access by site, agent, and permitted action.
-- Run approved actions and keep an auditable activity record.
-- Manage multiple WordPress sites from one workspace.
+## Built for real WordPress work
 
-## Links
+- Connect your AI client to one or many WordPress sites.
+- Keep access scoped to the site and action at hand.
+- Approve sensitive work before it runs.
+- See a complete record of what changed.
 
-- [Website](https://morawp.com)
-- [Sign in to MoraWP](https://app.morawp.com/login)
+[Website](https://morawp.com) · [Sign in](https://app.morawp.com/login)
